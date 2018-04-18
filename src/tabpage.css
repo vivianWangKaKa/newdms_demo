@@ -1,0 +1,38 @@
+
+.Tab_tittle{
+   padding-top:5px;
+   font-family: 'Times New Roman', Times, serif;
+   background-color: white;      
+   vertical-align:bottom;
+   display: inline-block;
+   font-size: 16px;
+   width: 200px;
+   height: 20px;
+   text-align: center;
+   margin: 5px 5px 0px 0px;
+}
+.active{
+    background-color:rgb(7, 31, 53);
+    color: white;
+}
+.Tab_tittle_wrap{
+    text-align: left;
+    background-color: white ;
+    width: 100%;
+    
+}
+.Tab_item_wrap{
+    min-height: 300px;
+    height:100%;
+    background: -webkit-linear-gradient(rgb(7, 31, 53), white); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(rgb(7, 31, 53), white); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(rgb(7, 31, 53), white); /* Firefox 3.6 - 15 */
+    background: linear-gradient(rgb(7, 31, 53), white); /* 标准的语法 */
+}
+.Tab_item{
+    display:none;    
+}
+.show{
+    display:block;
+
+}

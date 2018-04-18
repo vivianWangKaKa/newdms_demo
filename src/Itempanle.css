@@ -1,0 +1,38 @@
+
+th{
+    width: 14%;
+    overflow: hidden;
+}
+.hideHead
+{
+    display: none;
+}
+
+.itemno{
+    width: 14%;
+    overflow: hidden;
+}
+.itemprice{
+    width: 14%;
+    overflow: hidden;
+}		
+.itemDisc{
+    width:14%;
+    overflow: hidden;
+}
+.itemDescription{
+    width:14%;
+    overflow: hidden;
+}	
+ .itemQty{
+    width:10%;
+    overflow: hidden;
+}
+.itemAmount{
+    width:10%;
+    overflow: hidden;
+}
+.itemCode{
+    width:10%;
+    overflow: hidden;
+}	
